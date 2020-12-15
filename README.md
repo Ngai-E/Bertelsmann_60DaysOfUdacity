@@ -9,8 +9,8 @@ Code or practice the topics of your Foundation Course for 30 minutes EVERYDAY
 - [x] Take the Challenge Pledge  
 Studied how to build, validate and apply  a simple Linear Regression model to solve a business problem
 
-### Day 2: 
+#### Day 2: 
 Practise with Multiple Linear Regression using Excel
 
-### Day: 
+#### Day: 
 Wrap up practising with Multiple Linear Regression 
