@@ -5,12 +5,12 @@ This project is meant to document my progress on a Challenge course on data scie
 Code or practice the topics of your Foundation Course for 30 minutes EVERYDAY
 
 ## My Journey
-#### Day 1: 
+#### Day 1/60 #60daysofudacity
 - [x] Take the Challenge Pledge  
 Studied how to build, validate and apply  a simple Linear Regression model to solve a business problem
 
-#### Day 2: 
+#### Day 2/60 #60daysofudacity
 Practise with Multiple Linear Regression using Excel
 
-#### Day: 
+#### Day 3/60 #60daysofudacity
 Wrap up practising with Multiple Linear Regression 
