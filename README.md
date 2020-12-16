@@ -14,3 +14,6 @@ Practise with Multiple Linear Regression using Excel
 
 ### Day 3/60 #60daysofudacity
 Wrap up practising with Multiple Linear Regression 
+
+### Day 4/60 #60daysofudacity
+Practice analysing data and building models with Alteryx
