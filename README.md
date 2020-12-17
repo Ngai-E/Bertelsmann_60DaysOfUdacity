@@ -20,3 +20,5 @@ Practice analysing data and building models with Alteryx
 
 ### Day 5/60 #60daysofudacity
 Practised with more tutorials on Alteryx
+- [x] Finish Lesson 3 Linear Regression.
+- [x] Started Lesson 4 Practise Project.
