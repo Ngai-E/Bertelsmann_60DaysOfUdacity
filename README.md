@@ -17,3 +17,6 @@ Wrap up practising with Multiple Linear Regression
 
 ### Day 4/60 #60daysofudacity
 Practice analysing data and building models with Alteryx
+
+### Day 5/60 #60daysofudacity
+Practised with more tutorials on Alteryx
