@@ -22,3 +22,6 @@ Practice analysing data and building models with Alteryx
 Practised with more tutorials on Alteryx
 - [x] Finish Lesson 3 Linear Regression.
 - [x] Started Lesson 4 Practise Project.
+
+### Day 6/60 #
+Looking at a sample project `Predicting Diamond Prices`
