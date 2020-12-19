@@ -23,5 +23,9 @@ Practised with more tutorials on Alteryx
 - [x] Finish Lesson 3 Linear Regression.
 - [x] Started Lesson 4 Practise Project.
 
-### Day 6/60 #
+### Day 6/60 #60daysofudacity
 Looking at a sample project `Predicting Diamond Prices`
+
+
+### Day 7/60 #60daysofudacity
+Practised using the Score tool in Alteryx.
