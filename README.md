@@ -29,3 +29,6 @@ Looking at a sample project `Predicting Diamond Prices`
 
 ### Day 7/60 #60daysofudacity
 Practised using the Score tool in Alteryx.
+
+### Day 8/60 #60daysofudacity
+Understanding data set available on diamonds in other to predict prices
